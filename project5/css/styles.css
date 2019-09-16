@@ -11,4 +11,17 @@ body {
 
 h1{
     color: darkorange;
+    font-weight: 800;
+}
+
+h2{
+    font-weight: 400;
+}
+
+img{ 
+    max-width: 100%;
+}
+
+ul{
+    margin-bottom: 2rem;
 }
