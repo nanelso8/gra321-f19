@@ -1,0 +1,14 @@
+/* Styles for Project 6 */
+
+body { 
+    background-color: #A2B0B0;
+    color: #FFF;
+}
+
+h1 {
+    background-image: url(img/coffee.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    padding: 200px 100px;
+    
+}
