@@ -52,6 +52,14 @@ p{
     font-size: 35px;
 }
 
+.header {
+    color: #D5DED0;
+    font-size: 100px;
+    padding-left: 740px;
+    position: fixed;
+    top: 0;
+}
+
 .findus{
     background-color: white;
     color: #A2B0B0;
