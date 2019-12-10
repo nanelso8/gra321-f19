@@ -24,12 +24,13 @@ body {
     padding: 50px 50px;
     text-decoration: none;
     font-size: 35px;
-    width: 100%
+    width: 100%;
+    display: flex;
 }
 .topnav a.active {
   color: white;
   text-decoration: none;
-  margin: 35px;  
+  margin: 36px;
 }
 
 h1 {
@@ -187,7 +188,7 @@ ul{
     font-size: 35px; 
 }
 
-@media only screen and (min-width: 768px) {
+@media (min-width: 800px) {
     
     h1 {
         background-image: url(img/coffee2.jpg);
@@ -250,3 +251,66 @@ ul{
         margin-left: 255px;
     }
 }
+
+@media (min-width: 800px) {
+    
+    h1 {
+        background-image: url(img/coffee2.jpg);
+    }
+    h2 {
+        font-size: 50px;
+        margin-left: 255px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    h4 {
+        font-size: 30px;
+    }
+    h5 {
+        font-size: 40px;
+        margin-top: 35px;
+        margin-bottom: 35px;
+    }
+    p {
+        font-size: 30px;
+    }
+    .findus {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
+    .location {
+
+    }
+    .seasonal {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
+    .coffee {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
+    .syrup {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
+    .tea {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
+    .other {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
+    .pastries {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
+    .panini {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
+    .food {
+        margin-right: 255px;
+        margin-left: 255px;
+    }
