@@ -46,7 +46,7 @@ h1 {
 } 
 
 h2{
-    padding-left: 10px;
+    padding-left: 255px;
     padding-right: 100px;
     padding-top: 75px;
     margin-top: 0px;
@@ -86,8 +86,8 @@ p{
 .findus{
     background-color: white;
     color: #A2B0B0;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -100,8 +100,8 @@ p{
 
 .seasonal {
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -109,8 +109,8 @@ p{
 
 .coffee{
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -118,14 +118,14 @@ p{
 
 .milks{
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
 }
 
 .syrup {
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -133,8 +133,8 @@ p{
 
 .tea {
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -146,8 +146,8 @@ p{
 
 .other {
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -155,8 +155,8 @@ p{
 
 .pastries {
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -164,8 +164,8 @@ p{
 
 .panini {
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -173,8 +173,8 @@ p{
 
 .food{
     background-color: white;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 255px;
+    margin-right: 255px;
     padding-bottom: 10px;
     padding-left: 10px;
     padding-top: 10px;
@@ -187,7 +187,7 @@ ul{
     font-size: 35px; 
 }
 
-@media only screen and (min-width: 768px) {
+@media (max-width: 768px) {
     h1 {
         background-image: url(img/coffee2.jpg);
     }
@@ -211,42 +211,42 @@ ul{
     }
     
     .findus {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
     .location {
 
     }
     .seasonal {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
     .coffee {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
     .syrup {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
     .tea {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
     .other {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
     .pastries {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
     .panini {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
     .food {
-        margin-right: 255px;
-        margin-left: 255px;
+        margin-right: 60px;
+        margin-left: 60px;
     }
 }
